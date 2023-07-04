@@ -1,0 +1,1 @@
+include "idex.php";
